@@ -1,6 +1,11 @@
 <html> 
  <head> 
    <title>Nuestro primer ejemplo en PHP 7</title> 
+   <title>Nuestro primer ejemplo en PHP 7</title> 
+   <title>Nuestro primer ejemplo en PHP 7</title> 
+   <title>Nuestro primer ejemplo en PHP 7</title> 
+   <title>Nuestro primer ejemplo en PHP 7</title> 
+   <title>Nuestro primer ejemplo en PHP 7</title> 
  </head> 
  
   <body>
